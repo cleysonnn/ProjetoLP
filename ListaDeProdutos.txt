@@ -1,3 +1,0 @@
-Feijão;123;5.0;6.0;true
-bolacha;321;1.5;1.8;false
-arroz;741;4.0;5.0;true

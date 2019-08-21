@@ -1,4 +1,4 @@
-package projetoTeste;
+package Projeto;
 
 public abstract class Cliente {
 	private String nome;

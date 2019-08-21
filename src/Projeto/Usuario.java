@@ -1,4 +1,4 @@
-package projetoTeste;
+package Projeto;
 
 public class Usuario {
 	private String login;
